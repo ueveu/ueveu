@@ -1,16 +1,45 @@
-## Hi there 👋
+Here's an updated GitHub README based on your profile:
 
-<!--
-**ueveu/ueveu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Marvin Knochenhauer (ueveu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`Aspiring Software Developer | Python & Java Enthusiast | Fachinformatiker in Training`**
+
+I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungsentwicklung** at CBW College, Hamburg. My goal is to build efficient, scalable, and impactful software solutions using my knowledge in **Python**, **Java**, and a variety of modern technologies. I'm always exploring new ideas, contributing to open-source projects, and honing my skills through practical applications.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, Java, JavaScript, C++
+- **Frameworks:** Django, React, Spring Boot
+- **Cloud:** AWS, Docker, Kubernetes
+- **Certifications:** PCAP (Python Certified Associate Programmer), Professional Scrum Master
+- 
+---
+
+## 🎓 Current Learning Focus
+
+- **Umschulung zum Fachinformatiker (2024–2026)** – CBW College, Hamburg
+- Expanding skills in **object-oriented programming**, **cloud technologies**, and **DevOps**.
+
+---
+
+## 💡 Interests
+
+- Open-source contribution
+- AI and Machine Learning
+- Cloud Computing 
+- Agile & Scrum Methodologies
+
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ueveu&show_icons=true&theme=radical)
+
+---
+
+I'm always eager to connect, collaborate, and explore exciting new projects. Feel free to reach out!
