@@ -10,7 +10,7 @@ I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungs
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, Java, JavaScript, C++
+- **Languages:** Python, Java, JavaScript, 
 - **Frameworks:** Django, React, Spring Boot
 - **Cloud:** AWS, Docker, Kubernetes
 - **Certifications:** PCAP (Python Certified Associate Programmer), Professional Scrum Master
@@ -39,4 +39,4 @@ I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungs
 
 ---
 
-I'm always eager to connect, collaborate, and explore exciting new projects. Feel free to reach out!
+I'm always eager to connect, collaborate, and explore exciting new projects. Feel free to reach out! :)
