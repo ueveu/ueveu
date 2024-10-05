@@ -16,7 +16,6 @@ I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungs
 - **Frameworks:** Django, React, Spring Boot
 - **Cloud:** AWS, Docker, Kubernetes
 - **Certifications:** PCAP (Python Certified Associate Programmer), Professional Scrum Master
-- 
 ---
 
 ## 🎓 Current Learning Focus
