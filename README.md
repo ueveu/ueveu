@@ -1,6 +1,4 @@
-Here's an updated GitHub README based on your profile:
 
----
 
 # 👋 Hi, I'm Marvin Knochenhauer (ueveu)
 
