@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Marvin Knochenhauer (ueveu)
+# 👋 Hi, I'm Marvin K. (ueveu)
 
 **`Aspiring Software Developer | Python & Java Enthusiast | FAIE in Training`**
 
