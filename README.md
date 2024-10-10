@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Marvin K. (ueveu)
+# 👋 Hi, I'm Marvin
 
 **`Aspiring Software Developer | Python & Java Enthusiast | FAIE in Training`**
 
