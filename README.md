@@ -29,14 +29,7 @@ I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungs
 - AI and Machine Learning
 - Cloud Computing 
 - Agile & Scrum Methodologies
-
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ueveu&show_icons=true&theme=radical)
-
+  
 ---
 
 I'm always eager to connect, collaborate, and explore exciting new projects. Feel free to reach out! :)
