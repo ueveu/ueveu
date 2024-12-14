@@ -4,7 +4,7 @@
 
 **`Aspiring Software Developer | Python & Java Enthusiast | FAIE in Training`**
 
-I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungsentwicklung** at CBW College, Hamburg. My goal is to build efficient, scalable, and impactful software solutions using my knowledge in **Python**, **Java**, **Javascript**, and a variety of modern technologies. I'm always exploring new ideas, contributing to open-source projects, and honing my skills through practical applications.
+I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungsentwicklung** at CBW College, Hamburg. My goal is to build efficient, scalable, and impactful software solutions using my knowledge in **Python**, **Java**, **Javascript**, **PHP** and a variety of modern technologies. I'm always exploring new ideas, contributing to open-source projects, and honing my skills through practical applications.
 
 ---
 
