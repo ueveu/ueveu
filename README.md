@@ -10,14 +10,15 @@ I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungs
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, Java, Kotlin, JavaScript
-
+- **Languages:** Python, Java, PHP, JavaScript
+:gb:
+:de:
 ---
 
 ## 🎓 Current Learning Focus
 
 - **Umschulung zum Fachinformatiker (2024–2026)** – CBW College, Hamburg
-- Expanding skills in **object-oriented programming**, **cloud technologies**, and **artificial intelligence**.
+- Expanding skills in **object-oriented programming**, **cyber security** and **artificial intelligence**.
 
 ---
 
@@ -25,8 +26,8 @@ I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungs
 
 - Open-source contribution
 - AI and Machine Learning
-- Cloud Computing 
 - Agile & Scrum Methodologies
+- Cyber Security
   
 ---
 
