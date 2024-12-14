@@ -11,8 +11,8 @@ I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungs
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, Java, PHP, JavaScript
-:gb:
-:de:
+- 🇬🇧 English
+- 🇩🇪 Deutsch
 ---
 
 ## 🎓 Current Learning Focus
