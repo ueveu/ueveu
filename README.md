@@ -11,8 +11,6 @@ I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungs
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, Java, PHP, JavaScript
-*   German: &#x1F1E9;&#x1F1EA;
-*   English (UK): 🇬🇧
 
 ---
 
