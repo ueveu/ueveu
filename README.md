@@ -25,7 +25,6 @@ I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungs
 
 - Open-source contribution
 - AI and Machine Learning
-- Agile & Scrum Methodologies
 - Cyber Security
   
 ---
