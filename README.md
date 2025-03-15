@@ -22,10 +22,10 @@ I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungs
 ---
 
 ## 💡 Interests
-
-- Open-source contribution
+- Automatization
 - AI and Machine Learning
 - Cyber Security
+- Open-source contribution
   
 ---
 
