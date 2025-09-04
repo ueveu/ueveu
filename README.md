@@ -8,8 +8,6 @@ I'm currently in the midst of an **Umschulung zum Fachinformatiker in Anwendungs
 
 
 ## Current Learning Focus
-
-- **Umschulung zum Fachinformatiker (2024–2026)** – CBW College, Hamburg 🇩🇪
 - Expanding skills in **cyber security** and **artificial intelligence**.
 
 ---
